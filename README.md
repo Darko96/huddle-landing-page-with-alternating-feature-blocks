@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/Darko96/huddle-landing-page-with-alternating-feature-blocks]
+- Live Site URL: [https://darko96.github.io/huddle-landing-page-with-alternating-feature-blocks/]
 
 ## My process
 
